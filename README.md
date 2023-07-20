@@ -1,2 +1,3 @@
 # first_repo
-practice repo
+
+Some description.
